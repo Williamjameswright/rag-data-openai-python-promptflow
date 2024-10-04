@@ -1,8 +1,8 @@
 ai:
   # you must specify an existing subscription
-  subscription_id: "<my_subscription_id>"
+  subscription_id: william_ai
   # you can specify an existing resource group or specify the name for one to be created for you
-  resource_group_name: "<my_resource_group_name>"
+  resource_group_name: rg-william_ai
   # you must specify what region to use for your ai services.
   # We recommend using the check_quota script provided before picking a region, or looking at model availability: https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#standard-deployment-model-availability
   location: "<my_location>" # e.g. swedencentral
